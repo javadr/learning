@@ -1015,7 +1015,7 @@
 	- [X] [Understanding RNNs (NLP video 11)](https://www.youtube.com/watch?v=l1rlFh0PmZw) `0:33:16`
 	- [X] [Seq2Seq Translation (NLP video 12)](https://www.youtube.com/watch?v=IfsjMg4fLWQ) `0:59:42`
 	- [X] [Word embeddings quantify 100 years of gender & ethnic stereotypes-- Nikhil Garg (NLP video 13)](https://www.youtube.com/watch?v=boxV8Od4jqQ) `0:47:17`
-	- [ ] [Text generation algorithms (NLP video 14)](https://www.youtube.com/watch?v=3oEb_fFmPnY) `0:25:39`
+	- [X] [Text generation algorithms (NLP video 14)](https://www.youtube.com/watch?v=3oEb_fFmPnY) `0:25:39`
 	- [ ] [Implementing a GRU (NLP video 15)](https://www.youtube.com/watch?v=Bl6WVj6wQaE) `0:23:13`
 	- [ ] [Algorithmic Bias (NLP video 16)](https://www.youtube.com/watch?v=pThqge9QDn8) `1:26:17`
 	- [ ] [Introduction to the Transformer (NLP video 17)](https://www.youtube.com/watch?v=AFkGPmU16QA) `0:22:54`
