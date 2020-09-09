@@ -108,8 +108,6 @@
 	- [ ] [Designing ML models for millions of consumer robots - Angela Bassa and Danielle Dean](https://www.youtube.com/watch?v=W55uO4gIlQ4) `0:52:38`
 	- [ ] [Building trustworthy AI systems and combating potential malicious use – A conversation w/ Jack Clark](https://www.youtube.com/watch?v=nv_f1Gk8Ybk) `0:55:56`
 	- [ ] [Rachael Tatman - Conversational A.I. and Linguistics](https://www.youtube.com/watch?v=n_CTGZSq4m0) `0:36:51`
-	- [ ] [Nicolas Koumchatzky - Machine Learning in Production for Self Driving Cars](https://www.youtube.com/watch?v=NbiG8ZuRsqU) `0:44:56`
-	- [ ] [Brandon Rohrer - Machine Learning in Production for Robots](https://www.youtube.com/watch?v=_Ot35PspXw4) `0:34:31`
 
 ### Understand data ethics better  
 - [ ] [Practical Data Ethics](http://ethics.fast.ai/)
@@ -905,7 +903,7 @@
 - [ ] [Article: 3 subword algorithms help to improve your NLP model performance](https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46)
 - [ ] [Article: Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
 - [ ] [Article: Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-- [ ] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
+- [X] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 - [ ] [Coursera: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 - [ ] [Coursera: Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
 - [ ] [CMU: Low-resource NLP Bootcamp 2020](https://www.youtube.com/playlist?list=PL8PYTP1V4I8A1CpCzURXAUa6H4HO7PF2c)
