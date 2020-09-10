@@ -148,6 +148,12 @@
     - [ ] [Modern Pandas (Part 6)](https://tomaugspurger.github.io/modern-6-visualization.html)
     - [ ] [Modern Pandas (Part 7)](https://tomaugspurger.github.io/modern-7-timeseries.html)
     - [ ] [Modern Pandas (Part 8)](https://tomaugspurger.github.io/modern-8-scaling.html)
+- [X] [Kaggle: Data Cleaning](https://www.kaggle.com/learn/data-cleaning)
+    - [X] [Data Cleaning: 1 Handling Missing Values](https://www.kaggle.com/alexisbcook/handling-missing-values)
+    - [X] [Data Cleaning: 2 Scaling and Normalization](https://www.kaggle.com/alexisbcook/scaling-and-normalization)
+    - [X] [Data Cleaning: 3 Parsing Dates](https://www.kaggle.com/alexisbcook/parsing-dates)
+    - [X] [Data Cleaning: 4 Character Encodings](https://www.kaggle.com/alexisbcook/character-encodings)
+    - [X] [Data Cleaning: 5 Inconsistent Data Entry](https://www.kaggle.com/alexisbcook/inconsistent-data-entry)
 
 ### Be able to manipulate data in spreadsheets
 - [ ] [Datacamp: Spreadsheet basics](https://www.datacamp.com/courses/spreadsheet-basics)
