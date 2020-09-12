@@ -677,6 +677,7 @@
 - [ ] [Youtube: Visualizing Deep Learning](https://www.youtube.com/playlist?list=PLyPKqVSnetmEOp_g_hfabuRAs9ET-shl_)
     - [ ] [The Neural Network, A Visual Introduction | Visualizing Deep Learning, Chapter 1](https://youtu.be/UOvPeC8WOt8?list=PLyPKqVSnetmEOp_g_hfabuRAs9ET-shl_)
 - [ ] [Youtube: Deep Double Descent](https://youtu.be/R29awq6jvUw)
+- [X] [Book: The Hundred-Page Machine Learning Book](http://themlbook.com/)
 
 ### Be able to implement models in scikit-learn
 - [ ] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
@@ -1022,10 +1023,10 @@
 	- [X] [Seq2Seq Translation (NLP video 12)](https://www.youtube.com/watch?v=IfsjMg4fLWQ) `0:59:42`
 	- [X] [Word embeddings quantify 100 years of gender & ethnic stereotypes-- Nikhil Garg (NLP video 13)](https://www.youtube.com/watch?v=boxV8Od4jqQ) `0:47:17`
 	- [X] [Text generation algorithms (NLP video 14)](https://www.youtube.com/watch?v=3oEb_fFmPnY) `0:25:39`
-	- [ ] [Implementing a GRU (NLP video 15)](https://www.youtube.com/watch?v=Bl6WVj6wQaE) `0:23:13`
-	- [ ] [Algorithmic Bias (NLP video 16)](https://www.youtube.com/watch?v=pThqge9QDn8) `1:26:17`
-	- [ ] [Introduction to the Transformer (NLP video 17)](https://www.youtube.com/watch?v=AFkGPmU16QA) `0:22:54`
-	- [ ] [The Transformer for language translation (NLP video 18)](https://www.youtube.com/watch?v=KzfyftiH7R8) `0:55:17`
+	- [X] [Implementing a GRU (NLP video 15)](https://www.youtube.com/watch?v=Bl6WVj6wQaE) `0:23:13`
+	- [X] [Algorithmic Bias (NLP video 16)](https://www.youtube.com/watch?v=pThqge9QDn8) `1:26:17`
+	- [X] [Introduction to the Transformer (NLP video 17)](https://www.youtube.com/watch?v=AFkGPmU16QA) `0:22:54`
+	- [X] [The Transformer for language translation (NLP video 18)](https://www.youtube.com/watch?v=KzfyftiH7R8) `0:55:17`
 	- [ ] [What you need to know about Disinformation (NLP video 19)](https://www.youtube.com/watch?v=vbva2RN-rbQ) `0:51:21`
     - [ ] [Article: Zero to Hero with fastai - Beginner](https://muellerzr.github.io/fastblog/2020/08/20/_08_21-beginner.html)
     - [ ] [Article: Zero to Hero with fastai - Intermediate](https://muellerzr.github.io/fastblog/2020/08/20/_08_21-intermediate.html)
@@ -1128,6 +1129,8 @@
     - [ ] [[PART 4] Insincere Question Classification with PyTorch](https://www.youtube.com/watch?v=e9CxGeQZTVA) `0:14:25`
 - [ ] [Youtube: Word Embeddings, Bias in ML, Why You Don't Like Math, & Why AI Needs You](https://www.youtube.com/watch?v=25nC0n9ERq4) `2:08:36`
 - [ ] [NLP FROM SCRATCH: TRANSLATION WITH A SEQUENCE TO SEQUENCE NETWORK AND ATTENTION](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
+- [X] [Article: Evaluating Text Output in NLP: BLEU at your own risk](https://towardsdatascience.com/evaluating-text-output-in-nlp-bleu-at-your-own-risk-e8609665a213)
+- [X] [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
 ### Be able to model graphs and network data
 - [ ] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
