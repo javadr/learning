@@ -298,7 +298,7 @@
 	- [ ] [The Essence of Calculus, Chapter 1](https://www.youtube.com/watch?v=WUvTyaaNkzM) `0:17:04`
 	- [ ] [The paradox of the derivative | Essence of calculus, chapter 2](https://www.youtube.com/watch?v=9vKqVkMQHKk) `0:17:57`
 	- [ ] [Derivative formulas through geometry | Essence of calculus, chapter 3](https://www.youtube.com/watch?v=S0_qX4VJhMQ) `0:18:43`
-	- [ ] [Visualizing the chain rule and product rule | Essence of calculus, chapter 4](https://www.youtube.com/watch?v=YG15m2VwSjA) `0:16:52`
+	- [X] [Visualizing the chain rule and product rule | Essence of calculus, chapter 4](https://www.youtube.com/watch?v=YG15m2VwSjA) `0:16:52`
 	- [ ] [What's so special about Euler's number e? | Essence of calculus, chapter 5](https://www.youtube.com/watch?v=m2MIpDrF7Es) `0:13:50`
 	- [ ] [Implicit differentiation, what's going on here? | Essence of calculus, chapter 6](https://www.youtube.com/watch?v=qb40J4N1fa4) `0:15:33`
 	- [ ] [Limits, L'Hôpital's rule, and epsilon delta definitions | Essence of calculus, chapter 7](https://www.youtube.com/watch?v=kfF40MiS7zA) `0:18:26`
