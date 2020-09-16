@@ -1132,6 +1132,7 @@
 - [ ] [NLP FROM SCRATCH: TRANSLATION WITH A SEQUENCE TO SEQUENCE NETWORK AND ATTENTION](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 - [X] [Article: Evaluating Text Output in NLP: BLEU at your own risk](https://towardsdatascience.com/evaluating-text-output-in-nlp-bleu-at-your-own-risk-e8609665a213)
 - [X] [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+- [X] [Article: The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
 ### Be able to model graphs and network data
 - [ ] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
