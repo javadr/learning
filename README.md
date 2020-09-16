@@ -292,6 +292,7 @@
 - [ ] [Whitepaper: Running Containerized Microservices on AWS](https://d1.awsstatic.com/whitepapers/DevOps/running-containerized-microservices-on-aws.pdf)
 - [ ] [Whitepaper: Serverless Architectures with AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)
 - [X] [Paper: Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis](https://arxiv.org/abs/2005.05957)
+- [ ] [Paper: Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908v2)
 
 ### Be able to model problems mathematically
 - [ ] [3Blue1Brown: Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
