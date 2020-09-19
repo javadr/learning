@@ -429,6 +429,34 @@
 - [ ] [Youtube: The Kernel Trick - THE MATH YOU SHOULD KNOW!](https://www.youtube.com/watch?v=wBVSbVktLIY) `0:07:29`
 - [ ] [Youtube: Logistic Regression - THE MATH YOU SHOULD KNOW!](https://www.youtube.com/watch?v=YMJtsYIp4kg) `0:09:14`
 - [ ] [Youtube: But what *is* a Neural Network? - THE MATH YOU SHOULD KNOW!](https://www.youtube.com/watch?v=oB3gmT8GAgI) `0:19:07`
+- [ ] [Course: Statistics and Data Science](https://cranmer.github.io/stats-ds-book/intro.html)
+    - [ ] [Prbability Topics](https://cranmer.github.io/stats-ds-book/probability-topics.html)
+        - [ ] [Radom Variales](https://cranmer.github.io/stats-ds-book/random_variables.html)
+        - [ ] Conditonal Probability ()
+        - [ ] Bayes’ Theorem ()
+        - [ ] Independence ()
+        - [ ] Empirical Distribution ()
+        - [ ] Expectation ()
+        - [ ] Covariance and Correlation ()
+        - [ ] Simple data exploration ()
+        - [ ] Visualizing joint and marginal distributions ()
+        - [ ] Quantifying statistical dependence ()
+        - [X] How do distributions transform under a change of variables ? (https://cranmer.github.io/stats-ds-book/distributions/change-of-variables.html)
+        - [ ] Change of variables with autodiff ()
+        - [ ] Transformation of likelihood with change of random variable ()
+        - [ ] Transformation properties of the likelihood and posterior ()
+        - [ ] Investigating propagation of errors ()
+        - [ ] Revisiting error propagation with automatic differentiation ()
+        - [ ] Accept / Reject Monte Carlo ()
+        - [ ] An interactive exploration of statistical fluctuations in histograms ()
+        - [ ] Visualizing Graphical Models ()
+    - [ ] Statistics Topics ()
+        - [ ] Neyman-Pearson lemma ()
+        - [ ] Neyman construction ()
+        - [ ] Thumbnail of LHC Statistical Procedures ()
+        - [ ] Statistical decision theory ()
+        - [ ] Universal Probabilistic Programming Example ()
+
 
 ### Be able to structure machine learning projects
 - [ ] [Article: Organizing machine learning projects: project management guidelines](https://www.jeremyjordan.me/ml-projects-guide/)
