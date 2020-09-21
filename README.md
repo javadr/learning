@@ -774,6 +774,22 @@
     - [ ] [[PART 1] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=6LdS9n_L7u4) `0:10:21`
     - [ ] [[PART 2] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=wspdT8hRCWs) `0:21:57`
     - [ ] [[PART 3] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=zFqsuXs6-Us) `0:22:24`
+- [ ] [Book: Deep Learning with PyTorch] (https://pytorch.org/deep-learning-with-pytorch)
+    - [X] [Chapter 1:  Introducing deep learning and the PyTorch Library] ()
+    - [X] [Chapter 2: Pretrained networks] ()
+    - [X] [Chapter 3: It srats with a tensor] ()
+    - [X] [Chapter 4: Real-world data representation using tensors ] ()
+    - [X] [Chapter 5: The mechanics of learning] ()
+    - [ ] [Chapter 6: Using a neural network to fit the data] ()
+    - [ ] [Chapter 7: Telling birds from airplanes: Learning from images] ()
+    - [ ] [Chapter 8: Using convolutions to generalize] ()
+    - [ ] [Chapter 9: Using PyTorch to fight cancer] ()
+    - [ ] [Chapter 10: Combining data source into a unified dataset] ()
+    - [ ] [Chapter 11: Training a classification model to detect suspected tumors] ()
+    - [ ] [Chapter 12: Improvin training with metrics and augmentation] ()
+    - [ ] [Chapter 13: Using segmentation to find suspected nodules] ()
+    - [ ] [Chapter 14: End-to-end nodule analysis, and where to go next] ()
+    - [ ] [Chapter 15: Deploying to production] ()
 
 ### Be able to apply unsupervised learning algorithms
 - [ ] [Article: Grouping data points with k-means clustering](https://www.jeremyjordan.me/grouping-data-points-with-k-means-clustering/)
