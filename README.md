@@ -780,7 +780,7 @@
     - [X] [Chapter 3: It srats with a tensor] ()
     - [X] [Chapter 4: Real-world data representation using tensors ] ()
     - [X] [Chapter 5: The mechanics of learning] ()
-    - [ ] [Chapter 6: Using a neural network to fit the data] ()
+    - [X] [Chapter 6: Using a neural network to fit the data] ()
     - [ ] [Chapter 7: Telling birds from airplanes: Learning from images] ()
     - [ ] [Chapter 8: Using convolutions to generalize] ()
     - [ ] [Chapter 9: Using PyTorch to fight cancer] ()
