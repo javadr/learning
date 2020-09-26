@@ -343,7 +343,7 @@
 - [ ] [Datacamp: Statistical Simulation in Python](https://www.datacamp.com/courses/statistical-simulation-in-python)
 - [ ] [edX: Essential Statistics for Data Analysis using Excel](https://www.edx.org/course/essential-statistics-data-analysis-using-microsoft-dat222x-1)
 - [ ] [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- [ ] [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
+- [X] [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
 - [ ] [Khan Academy: Precalculus](https://www.khanacademy.org/math/precalculus)
 - [ ] [Khan Academy: Probability](https://www.khanacademy.org/mission/probability)
 - [ ] [Khan Academy: Differential Calculus](https://www.khanacademy.org/mission/differential-calculus)
@@ -582,9 +582,9 @@
 	- [ ] [DeepMind x UCL | Deep Learning Lectures | 10/12 |  Unsupervised Representation Learning](https://www.youtube.com/watch?v=f0s-uvvXvWg) `1:44:40`
 	- [ ] [DeepMind x UCL | Deep Learning Lectures | 11/12 | Modern Latent Variable Models](https://www.youtube.com/watch?v=7Pcvdo4EJeo) `1:28:26`
 	- [ ] [DeepMind x UCL | Deep Learning Lectures | 12/12 |  Responsible Innovation](https://www.youtube.com/watch?v=MhNcWxUs-PQ) `1:02:28`
-- [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
+- [ ] [Fast.ai: Deep Learning for Coders (2020)](https://course.fast.ai/)
     - [X] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
-    - [ ] [Lesson 2](https://course.fast.ai/videos/?lesson=2)
+    - [X] [Lesson 2](https://course.fast.ai/videos/?lesson=2)
     - [ ] [Lesson 3](https://course.fast.ai/videos/?lesson=3)
     - [ ] [Lesson 4](https://course.fast.ai/videos/?lesson=4)
     - [ ] [Lesson 5](https://course.fast.ai/videos/?lesson=5)
@@ -781,8 +781,8 @@
     - [X] [Chapter 4: Real-world data representation using tensors ] ()
     - [X] [Chapter 5: The mechanics of learning] ()
     - [X] [Chapter 6: Using a neural network to fit the data] ()
-    - [ ] [Chapter 7: Telling birds from airplanes: Learning from images] ()
-    - [ ] [Chapter 8: Using convolutions to generalize] ()
+    - [X] [Chapter 7: Telling birds from airplanes: Learning from images] ()
+    - [X] [Chapter 8: Using convolutions to generalize] ()
     - [ ] [Chapter 9: Using PyTorch to fight cancer] ()
     - [ ] [Chapter 10: Combining data source into a unified dataset] ()
     - [ ] [Chapter 11: Training a classification model to detect suspected tumors] ()
