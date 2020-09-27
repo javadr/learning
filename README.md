@@ -783,7 +783,7 @@
     - [X] [Chapter 6: Using a neural network to fit the data] ()
     - [X] [Chapter 7: Telling birds from airplanes: Learning from images] ()
     - [X] [Chapter 8: Using convolutions to generalize] ()
-    - [ ] [Chapter 9: Using PyTorch to fight cancer] ()
+    - [X] [Chapter 9: Using PyTorch to fight cancer] ()
     - [ ] [Chapter 10: Combining data source into a unified dataset] ()
     - [ ] [Chapter 11: Training a classification model to detect suspected tumors] ()
     - [ ] [Chapter 12: Improvin training with metrics and augmentation] ()
