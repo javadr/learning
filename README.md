@@ -588,7 +588,7 @@
     - [X] [Lesson 3](https://course.fast.ai/videos/?lesson=3)
     - [X] [Lesson 4](https://course.fast.ai/videos/?lesson=4)
     - [X] [Lesson 5](https://course.fast.ai/videos/?lesson=5)
-    - [ ] [Lesson 6](https://course.fast.ai/videos/?lesson=6)
+    - [X] [Lesson 6](https://course.fast.ai/videos/?lesson=6)
     - [ ] [Lesson 7](https://course.fast.ai/videos/?lesson=7)
     - [ ] [Lesson 8](https://course.fast.ai/videos/?lesson=8)
 - [ ] [Google: Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning)
