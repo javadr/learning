@@ -786,7 +786,7 @@
     - [X] [Chapter 9: Using PyTorch to fight cancer] ()
     - [X] [Chapter 10: Combining data source into a unified dataset] ()
     - [X] [Chapter 11: Training a classification model to detect suspected tumors] ()
-    - [ ] [Chapter 12: Improvin training with metrics and augmentation] ()
+    - [X] [Chapter 12: Improvin training with metrics and augmentation] ()
     - [ ] [Chapter 13: Using segmentation to find suspected nodules] ()
     - [ ] [Chapter 14: End-to-end nodule analysis, and where to go next] ()
     - [ ] [Chapter 15: Deploying to production] ()
