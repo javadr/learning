@@ -488,7 +488,7 @@
   - [ ] [Lecture 15: Richard Socher](https://youtu.be/yvMgcLKuvVg)
   - [ ] [Guest Lecture - Chip Huyen - Machine Learning Interviews - Full Stack Deep Learning](https://youtu.be/pli1K75PSa8)
 - [ ] [MIT: The Missing Semester of CS Education](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
-	- [ ] [Lecture 1: Course Overview + The Shell (2020)](https://www.youtube.com/watch?v=Z56Jmr9Z34Q) `0:48:16`
+	- [X] [Lecture 1: Course Overview + The Shell (2020)](https://www.youtube.com/watch?v=Z56Jmr9Z34Q) `0:48:16`
 	- [ ] [Lecture 2: Shell Tools and Scripting (2020)](https://www.youtube.com/watch?v=kgII-YWo3Zw) `0:48:55`
 	- [ ] [Lecture 3: Editors (vim) (2020)](https://www.youtube.com/watch?v=a6Q8Na575qc) `0:48:26`
 	- [ ] [Lecture 4: Data Wrangling (2020)](https://www.youtube.com/watch?v=sz_dsktIjt4) `0:50:03`
@@ -1449,18 +1449,7 @@
 - [ ] [Udacity: Intro to Theoretical Computer Science](https://www.udacity.com/courses/cs313)
 - [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
 - [ ] [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
-- [ ] [Course: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-    - [X] [Course overview + the shell](https://missing.csail.mit.edu/2020//2020/course-shell/)
-    - [ ] [Shell Tools and Scripting](https://missing.csail.mit.edu/2020//2020/shell-tools/)
-    - [ ] [Editors (Vim)](https://missing.csail.mit.edu/2020//2020/editors/)
-    - [ ] [Data Wrangling](https://missing.csail.mit.edu/2020//2020/data-wrangling/)
-    - [ ] [Command-line Environment](https://missing.csail.mit.edu/2020//2020/command-line/)
-    - [ ] [Version Control (Git)](https://missing.csail.mit.edu/2020//2020/version-control/)
-    - [ ] [Debugging and Profiling](https://missing.csail.mit.edu/2020//2020/debugging-profiling/)
-    - [ ] [Metaprogramming](https://missing.csail.mit.edu/2020//2020/metaprogramming/)
-    - [ ] [Security and Cryptography](https://missing.csail.mit.edu/2020//2020/security/)
-    - [ ] [Potpourri](https://missing.csail.mit.edu/2020//2020/potpourri/)
-    - [ ] [Q&A](https://missing.csail.mit.edu/2020//2020/qa/)
+
 ### Be able to apply proper software engineering process
 - [ ] [Launch School: Agile Planning](https://launchschool.com/books/agile_planning)
 - [ ] [Pluralsight: Product Owner Fundamentals](https://www.pluralsight.com/courses/product-owner-fundamentals-foundations)
