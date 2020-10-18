@@ -589,7 +589,7 @@
     - [X] [Lesson 4](https://course.fast.ai/videos/?lesson=4)
     - [X] [Lesson 5](https://course.fast.ai/videos/?lesson=5)
     - [X] [Lesson 6](https://course.fast.ai/videos/?lesson=6)
-    - [ ] [Lesson 7](https://course.fast.ai/videos/?lesson=7)
+    - [X] [Lesson 7](https://course.fast.ai/videos/?lesson=7)
     - [ ] [Lesson 8](https://course.fast.ai/videos/?lesson=8)
 - [ ] [Google: Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning)
 - [ ] [Book: Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
