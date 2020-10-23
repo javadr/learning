@@ -493,7 +493,7 @@
 	- [X] [Lecture 3: Editors (vim) (2020)](https://www.youtube.com/watch?v=a6Q8Na575qc) `0:48:26`
 	- [X] [Lecture 4: Data Wrangling (2020)](https://www.youtube.com/watch?v=sz_dsktIjt4) `0:50:03`
 	- [X] [Lecture 5: Command-line Environment (2020)](https://www.youtube.com/watch?v=e8BO_dYxk5c) `0:56:06`
-	- [ ] [Lecture 6: Version Control (git) (2020)](https://www.youtube.com/watch?v=2sjqTHE0zok) `1:24:59`
+	- [X] [Lecture 6: Version Control (git) (2020)](https://www.youtube.com/watch?v=2sjqTHE0zok) `1:24:59`
 	- [ ] [Lecture 7: Debugging and Profiling (2020)](https://www.youtube.com/watch?v=l812pUnKxME) `0:54:13`
 	- [ ] [Lecture 8: Metaprogramming (2020)](https://www.youtube.com/watch?v=_Ms1Z4xfqv4) `0:49:52`
 	- [ ] [Lecture 9: Security and Cryptography (2020)](https://www.youtube.com/watch?v=tjwobAmnKTo) `1:00:59`
