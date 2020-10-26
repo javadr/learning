@@ -582,7 +582,7 @@
 	- [ ] [DeepMind x UCL | Deep Learning Lectures | 10/12 |  Unsupervised Representation Learning](https://www.youtube.com/watch?v=f0s-uvvXvWg) `1:44:40`
 	- [ ] [DeepMind x UCL | Deep Learning Lectures | 11/12 | Modern Latent Variable Models](https://www.youtube.com/watch?v=7Pcvdo4EJeo) `1:28:26`
 	- [ ] [DeepMind x UCL | Deep Learning Lectures | 12/12 |  Responsible Innovation](https://www.youtube.com/watch?v=MhNcWxUs-PQ) `1:02:28`
-- [ ] [Fast.ai: Deep Learning for Coders (2020)](https://course.fast.ai/)
+- [X] [Fast.ai: Deep Learning for Coders (2020)](https://course.fast.ai/)
     - [X] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
     - [X] [Lesson 2](https://course.fast.ai/videos/?lesson=2)
     - [X] [Lesson 3](https://course.fast.ai/videos/?lesson=3)
@@ -590,7 +590,7 @@
     - [X] [Lesson 5](https://course.fast.ai/videos/?lesson=5)
     - [X] [Lesson 6](https://course.fast.ai/videos/?lesson=6)
     - [X] [Lesson 7](https://course.fast.ai/videos/?lesson=7)
-    - [ ] [Lesson 8](https://course.fast.ai/videos/?lesson=8)
+    - [X] [Lesson 8](https://course.fast.ai/videos/?lesson=8)
 - [ ] [Google: Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning)
 - [ ] [Book: Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
 - [ ] [Book: Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G)
