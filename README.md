@@ -1403,6 +1403,7 @@
 - [ ] [Udacity: Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
 - [ ] [Udacity: Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 - [ ] [Udacity: What is Programming?](https://www.udacity.com/course/what-is-programming--ud994)
+- [X] [pdb Tutorial](https://github.com/spiside/pdb-tutorial)
 
 ### Be familiar with compiled languages
 - [ ] [Codecademy: Learn Java](https://www.codecademy.com/learn/learn-java)
