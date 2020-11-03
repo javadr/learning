@@ -1470,6 +1470,7 @@
 ### Be able to efficiently use a text editor
 - [ ] [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
 - [ ] [Mastering Pycharm](https://www.amazon.com/Mastering-PyCharm-Quazi-Nafiul-Islam-ebook/dp/B00YSIKR3A)
+- [X] [vimtutor](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor)
 
 ### Be able to communicate and collaborate well
 - [ ] [Google: Technical Writing](https://developers.google.com/tech-writing)
