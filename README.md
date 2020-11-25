@@ -489,6 +489,7 @@
   - [ ] [Lecture 15: Richard Socher](https://youtu.be/yvMgcLKuvVg)
   - [ ] [Guest Lecture - Chip Huyen - Machine Learning Interviews - Full Stack Deep Learning](https://youtu.be/pli1K75PSa8)
 - [X] [Hacker Tools](https://hacker-tools.github.io/lectures/)
+<<<<<<< HEAD
 	- [X] [Course overview](https://hacker-tools.github.io/course-overview)
 	- [X] [Virtual machines and containers](https://hacker-tools.github.io/virtual-machines)
 	- [X] [Shell and scripting](https://hacker-tools.github.io/shell)
@@ -507,6 +508,26 @@
 	- [X] [Remote machines](https://hacker-tools.github.io/remote-machines)
 	- [X] [Web and browsers](https://hacker-tools.github.io/web)
 	- [X] [Security and privacy](https://hacker-tools.github.io/security)
+=======
+	- [X] [Course overview](https://hacker-tools.github.io/ course-overview)
+	- [X] [Virtual machines and containers](https://hacker-tools.github.io/ virtual-machines)
+	- [X] [Shell and scripting](https://hacker-tools.github.io/ shell)
+	- [X] [Command-line environment](https://hacker-tools.github.io/ command-line)
+	- [X] [Data wrangling](https://hacker-tools.github.io/ data-wrangling)
+	- [X] [Editors](https://hacker-tools.github.io/ editors)
+	- [X] [Version control](https://hacker-tools.github.io/ version-control)
+	- [X] [Dotfiles](https://hacker-tools.github.io/ dotfiles)
+	- [X] [Backups](https://hacker-tools.github.io/ backups)
+	- [X] [Automation](https://hacker-tools.github.io/ automation)
+	- [X] [Machine introspection](https://hacker-tools.github.io/ machine-introspection)
+	- [X] [Program introspection](https://hacker-tools.github.io/ program-introspection)
+	- [X] [Package](https://hacker-tools.github.io/ package-management)
+	- [X] [](https://hacker-tools.github.io/ dependency management)
+	- [X] [OS customization](https://hacker-tools.github.io/ os-customization)
+	- [X] [Remote machines](https://hacker-tools.github.io/ remote-machines)
+	- [X] [Web and browsers](https://hacker-tools.github.io/ web)
+	- [X] [Security and privacy](https://hacker-tools.github.io/ security)
+>>>>>>> 75ce9fc66909bf55b81b73f74c4f35815f6ba85c
 - [X] [MIT: The Missing Semester of CS Education](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
 	- [X] [Lecture 1: Course Overview + The Shell (2020)](https://www.youtube.com/watch?v=Z56Jmr9Z34Q) `0:48:16`
 	- [X] [Lecture 2: Shell Tools and Scripting (2020)](https://www.youtube.com/watch?v=kgII-YWo3Zw) `0:48:55`
