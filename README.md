@@ -201,6 +201,7 @@
 - [ ] [Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
 - [ ] [Udacity: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 - [ ] [Web Bos:  Command Line Power User](https://www.youtube.com/watch?v=DP218aBHm1Q&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=2)
+- [X] [Udemy: Linux Technical Interview Questions and Answers](https://www.udemy.com/course/linux-technical-interview-questions-and-answers)
 
 ### Be able to import data from multiple sources
 - [ ] [Datacamp: Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)
